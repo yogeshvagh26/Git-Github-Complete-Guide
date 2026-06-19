@@ -30,7 +30,7 @@ Welcome to Phase 1! This guide is structured as a single comprehensive lesson di
 
 ---
 
-### 3. Git Commands (Replacing "SQL Syntax" for this phase)
+### 3. Git Commands 
 
 Since we are dealing with concepts here, we introduce the fundamental commands that illustrate these definitions:
 
