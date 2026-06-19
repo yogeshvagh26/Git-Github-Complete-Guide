@@ -3,11 +3,11 @@
 Welcome to Phase 1! This guide is structured as a single comprehensive lesson divided into three logical modules. For each module, we strictly follow your required Teaching Format. Let's dive in.
 
 ## Module 1: Core Concepts 
-> (What is VCS? 
+> What is VCS? 
 
 > What is Git? 
 
-> What is GitHub?)
+> What is GitHub?
 
 ### 1. Concept Explanation
 
