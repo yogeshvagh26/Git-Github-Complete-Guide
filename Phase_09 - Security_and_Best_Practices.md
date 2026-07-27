@@ -679,6 +679,5 @@ You have now completed the entire Git & GitHub curriculum. You have journeyed fr
 
 ---
 
-
 <br/><br/><br/>
 <center> <b>Happy Learning! 😊</b> </center>
