@@ -2,8 +2,6 @@
 
 Welcome to Phase 2! This lesson covers the essential, everyday commands you will use constantly as a developer. Mastering `status`, `add`, `commit`, `log`, `diff`, file management, and `.gitignore` will give you full control over your project's history.
 
-Since this Phase contains multiple commands, we will apply the **Teaching Format** sequentially to each major command, culminating in a comprehensive review section.
-
 ---
 
 ## 1. Checking Repository Status (`git status`)
