@@ -2,8 +2,6 @@
 
 Welcome to Phase 3—the heart of Git's power! Branching allows you to diverge from the main line of development and work independently without disrupting the stable code. This lesson covers everything from the conceptual model to resolving merge conflicts and adopting industry-standard strategies.
 
-Since this Phase covers multiple interconnected topics, we will apply the **Teaching Format** to each concept individually, followed by a consolidated Quiz, Interview Questions, Assignment, and Summary at the end.
-
 ---
 
 ## 1. Understanding Branches
