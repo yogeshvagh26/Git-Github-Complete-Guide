@@ -2,8 +2,6 @@
 
 Welcome to Phase 5! This is where Git transcends from a personal time-machine to a **team superpower**. GitHub adds a social and organizational layer on top of Git, enabling code reviews, issue tracking, project management, and large-scale open-source collaboration.
 
-We will cover 7 critical collaboration topics. For **every topic**, we strictly follow your required **Teaching Format**: Concept Explanation → Real-World Example → GitHub Workflow / Commands → Multiple Examples → Visual Table Illustration → Practice Questions → Quiz → Interview Questions → Assignment → Summary.
-
 Let's dive in!
 
 ---
